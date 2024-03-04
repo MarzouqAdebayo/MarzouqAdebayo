@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @MarzouqAdebayo
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Python, React and NodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Marzouq Adebayo! 👋
 
-<!---
-MarzouqAdebayo/MarzouqAdebayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 👀 I’m a software engineer with interest in Fullstack Web Development.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on exciting web development projects.
+- 📫 You can reach me via [email](mailto:marzouqaadebayo@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/marzouq-adebayo).
+
+## Languages and Tools
+- C
+- HTML
+- CSS
+- JavaScript / TypeScript
+- Python
+- React.js
+- Node.js
