@@ -14,3 +14,5 @@
 - Node.js
 - Svelte
 - Golang
+- Lua
+- Learning Rust
